@@ -1,12 +1,12 @@
-# AGS OedoSense
---------_
+# ``AGS OedoSense``
+Making sense of oedometer test data in AGS files <br /><br />
+
 Copyright (c) 2023, WEI JIAN ANG. <br />
 All rights reserved.
 
 Description
 --------
-**``AGS OedoSense``** - Making sense of oedometer test data in AGS files <br />
-This is an open-source application developed in Python 3 and packaged into an executable via PyInstaller to: 
+**``AGS OedoSense``** is an open-source application developed in Python 3 and packaged into an executable via PyInstaller to: 
 - Read oedometer test data in MS excel files (in AGS format)
 - Check data format 
 - Plot oedometer test data
@@ -36,3 +36,4 @@ References
 - Gregory, A. S., Whalley, W. R., Watts, C. W., Bird, N. R. A., Hallett, P. D. and Whitmore, A. P. (2006) Calculation of the compression index and precompression stress from soil compression test data. Soil and Tillage Research. 89(1), 45–57. https://doi.org/10.1016/j.still.2005.06.012.
 - Montoya-Araque, E. A., Aparicio-Ortube, A. J., Zapata-Medina, D. G. and Arboleda-Monsalve, L. G. (2022) An open-source application software to determine the preconsolidation pressure of soils in incremental loading oedometer testing: pySigmaP. SoftwareX. 17(1). https://doi.org/10.1016/j.softx.2022.100990.
 - Oikawa, H. (1987) Compression curve of soft soils. Soils and Foundations. 27(3), 99 - 104. https://doi.org/10.3208/sandf1972.27.3_99.
+- Public Domain Image as Application Logo: https://openclipart.org/detail/298052/soil#google_vignette
