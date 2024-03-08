@@ -1,6 +1,5 @@
 # ``AGS OedoSense``
-Making sense of oedometer test data in AGS files <br /><br />
-
+#### Making sense of oedometer test data in AGS files
 Copyright (c) 2023, WEI JIAN ANG. <br />
 All rights reserved.
 
