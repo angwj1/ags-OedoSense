@@ -27,7 +27,7 @@ Instructions to use application (please refer to the step-by-step guide for more
 
 License
 --------
-**``AGS OedoSense``** is a free and open-source application published under the [BSD-2-Clause License](https://opensource.org/licenses/BSD-2-Clause). The application and the accompanying source code can be readily downloaded from [GitHub](https://github.com/angwj1/ags-OedoSense)
+**``AGS OedoSense``** is a free and open-source application published under the [BSD-2-Clause License](https://opensource.org/licenses/BSD-2-Clause). The application and the accompanying source code can be readily downloaded from [GitHub](https://github.com/angwj1/ags-OedoSense).
 
 References
 --------
