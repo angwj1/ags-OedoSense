@@ -26,9 +26,8 @@ Instructions to use software (please refer to the step-by-step guide for more de
 Features 
 --------
 
-* `GitHub <https://github.com/angwj1/ags-OedoSense>_  
+* `GitHub <https://github.com/angwj1/ags-OedoSense>`_  
 * Open source and free application: `BSD-2-Clause License <https://opensource.org/licenses/BSD-2-Clause>`_.
-
 
 
 References
