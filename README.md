@@ -1,18 +1,19 @@
 # AGS OedoSense
---------
-Copyright (c) 2023, WEI JIAN ANG.
+--------_
+Copyright (c) 2023, WEI JIAN ANG. <br />
 All rights reserved.
 
 Description
 --------
-**``AGS OedoSense``** - Making sense of oedometer test data in AGS files - is an open-source application developed in Python 3 and packaged into an executable via PyInstaller to: 
+**``AGS OedoSense``** - Making sense of oedometer test data in AGS files <br />
+This is an open-source application developed in Python 3 and packaged into an executable via PyInstaller to: 
 - Read oedometer test data in MS excel files (in AGS format)
 - Check data format 
 - Plot oedometer test data
 - Calculate the preconsolidation pressure with three methods: 
-        1. Casagrande method (1936) 
-        2. Oikawa method (1987)
-        3. Maximum Curvature method (Gregory et al., 2006) 
+  1. Casagrande's method (1936) 
+  2. Oikawa's method (1987) 
+  3. Maximum Curvature method (Gregory et al., 2006) 
 - Compare the calculated preconsolidation pressure against the recorded preconsolidation pressure (in AGS)
 
 Instructions
@@ -27,7 +28,7 @@ Instructions to use application (please refer to the step-by-step guide for more
 
 License
 --------
-**``AGS OedoSense``** is a free and open-source application published under the [BSD-2-Clause License](https://opensource.org/licenses/BSD-2-Clause). The application and the accompanying source code can be readily downloaded from [GitHub] (https://github.com/angwj1/ags-OedoSense)
+**``AGS OedoSense``** is a free and open-source application published under the [BSD-2-Clause License](https://opensource.org/licenses/BSD-2-Clause). The application and the accompanying source code can be readily downloaded from [GitHub](https://github.com/angwj1/ags-OedoSense)
 
 References
 --------
