@@ -1,3 +1,6 @@
 
 **/.DS_Store
 *.spec
+dist/macOS_Ventura/AGS Checker - OED.app/Contents/_CodeSignature/CodeResources
+dist/macOS_Ventura/AGS Checker - OED.app/Contents/Info.plist
+dist/macOS_Ventura/AGS Checker - OED.app/Contents/Resources/generated-8bd7ee289c749dd42ddf723fe80515f6c4f83f29d789e33a0fb2fa54ff3c5cb3.icns
