@@ -4,3 +4,5 @@
 dist/macOS_Ventura/AGS Checker - OED.app/Contents/_CodeSignature/CodeResources
 dist/macOS_Ventura/AGS Checker - OED.app/Contents/Info.plist
 dist/macOS_Ventura/AGS Checker - OED.app/Contents/Resources/generated-8bd7ee289c749dd42ddf723fe80515f6c4f83f29d789e33a0fb2fa54ff3c5cb3.icns
+app/macOS_Ventura/AGS OedoSense.app/Contents/Info.plist
+app/macOS_Ventura/AGS OedoSense.app/Contents/Resources/generated-19cbcc44bc1ed5877cc28c8b7613272812a29413fd196666c0fdcfe878d973ae.icns
