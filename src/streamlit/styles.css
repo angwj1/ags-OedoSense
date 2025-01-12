@@ -1,0 +1,22 @@
+/*https://discuss.streamlit.io/t/css-hacks/14501/4*/
+/*key is to set the html style class (using f-literal string) in the main.py file, so that reference can be made in the css*/
+
+
+/*markdown main-header style*/
+.main-header-text {
+        font-size:30px; 
+/*        font-family: 'Helvetica'; */
+/*        font-family: 'Comic Sans MS'; */
+/*        font-family: 'cursive'; */
+/*        font-family: 'Verdana'; */
+/*        font-family: 'Brush Script MT';*/
+        font-family: 'Marker Felt';
+        color: #02ab21;
+
+} 
+
+/*output font style*/
+.output-text {       
+        color: #2596be;   
+}
+
