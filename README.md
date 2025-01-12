@@ -1,7 +1,7 @@
 # ``AGS OedoSense``
 #### Making sense of oedometer test data in AGS files
 Copyright (c) 2023, WEI JIAN ANG. <br />
-All rights reserved.
+All rights reserved. <br />
 *Web Inferface added and accessible via https://ags-oedosense.streamlit.app/*
 
 Description
