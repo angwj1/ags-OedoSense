@@ -30,7 +30,7 @@ if "has_format_errors" not in ss:
     ss["has_format_errors"] = True
 
 # link up streamlit and css
-cssfile_path = "styles.css"
+cssfile_path = "src/streamlit/styles.css"
 with open(cssfile_path) as css:
     st.markdown(f"<style>{css.read()}</style>", unsafe_allow_html=True)
 
